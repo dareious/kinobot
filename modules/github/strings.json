@@ -1,0 +1,42 @@
+{
+    "repocount": {
+        "en": "{user} has {count} public repos."
+    },
+    "statusgood": {
+        "en": "\u000309Shit's fine"
+    },
+    "statusminor": {
+        "en": "\u000308Shit's touchy"
+    },
+    "statusmajor": {
+        "en": "\u000304Shit's fucked:"
+    },
+    "location": {
+        "en": "You can find that shit at:"
+    },
+    "forkedrepo": {
+        "en": "{name} is a forked {language} repo with {open_issues} unresolved issues [{forks}F {watchers}W]"
+    },
+    "unforkedrepo": {
+        "en": "{name} is a {language} repo with {open_issues} unresolved issues [{forks}F {watchers}W]"
+    },
+    "usernotfound": {
+        "en": "User not found."
+    },
+    "issuenotfound": {
+        "en": "Unable to find that issue."
+    },
+    "issue": {
+        "en": "Issue \u000308{number}\u0003: {title} [{state}{pull_request}\u000315; {comments} comments]{label}"
+    },
+    "commitcountboring": {
+        "en": "My code has been committed {count} times."
+    },
+    "commitcountfun": {
+        "en": "My repository has the same number of commits as {fact} ({count})."
+    },
+    "commitcountyear": {
+        "en": "My repository's commits number {count}, the year that {fact}."
+    }
+}
+

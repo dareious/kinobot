@@ -1,0 +1,17 @@
+{
+  "name": "kinobot",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "",
+    "sandbox": "",
+    "request": "",
+    "moment": "",
+    "express": "",
+    "ent": "",
+    "libxml-to-js": "",
+    "jsdom": "",
+    "jade" : "0.25",
+    "databank": "",
+    "node-uuid":""
+  }
+}

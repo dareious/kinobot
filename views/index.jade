@@ -1,0 +1,6 @@
+extends layout
+
+block content
+  #modulelinks
+    - for(var i=0;i<routes.length;i++)
+        a.module(href='/'+routes[i]) #{routes[i]}

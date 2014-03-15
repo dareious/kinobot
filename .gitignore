@@ -1,0 +1,11 @@
+# Ignore the user config files
+config.json
+db.json
+
+# ignore npm
+node_modules/
+!node_modules/databank-redis/lib
+
+# ignore assets
+public/bootstrap/
+public/d3/
